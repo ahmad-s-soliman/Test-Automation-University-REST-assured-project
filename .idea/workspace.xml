@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd0787df-5968-4ddc-99db-3b812e5ca90a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dataentities/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dataentities/Place.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/examples/Chapter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/examples/Chapter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/examples/Chapter3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/examples/Chapter4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/examples/Chapter5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/examples/Chapter6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/__files/24848.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/__files/90210.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/mappings/24848_xml.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/mappings/90210_xml.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/mappings/location.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2kQRRC2Ces5Tj6f79f7EEx25XQ6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.Chapter1.requestUsZipCode90210_checkPlaceNameInResponseBody_expectBeverlyHills.executor": "Run",
+    "JUnit.Chapter2.executor": "Run",
+    "JUnit.Chapter2.requestUsZipCode90210_checkStatusCode_expectHttp200.executor": "Run",
+    "JUnit.Chapter3.requestZipCodesFromCollection_checkPlaceNameInResponseBody_expecSpecifiedPlaceName.executor": "Run",
+    "JUnit.Chapter3.requestZipCodesFromCollection_checkPlaceNameInResponseBody_expectSpecifiedPlaceName.executor": "Run",
+    "JUnit.Chapter4.executor": "Run",
+    "JUnit.Chapter5.executor": "Run",
+    "JUnit.Chapter5.requestUsZipCode90210_checkPlaceNameInResponseBody_expectBeverlyHills.executor": "Run",
+    "JUnit.Chapter6.requestUsZipCode90210_checkPlaceNameInResponseBody_expectBeverlyHills.executor": "Run",
+    "JUnit.Chapter6.sendLvZipCode1050_checkStatusCode_expect200.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/SW-Testing/Test-Automation-University/REST assured/my-rest-assured/src/test/resources/mappings",
+    "onboarding.tips.debug.path": "D:/SW-Testing/Test-Automation-University/REST assured/my-rest-assured/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SW-Testing\Test-Automation-University\REST assured\my-rest-assured\src\test\resources\mappings" />
+      <recent name="D:\SW-Testing\Test-Automation-University\REST assured\my-rest-assured\src\test\resources\__files" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Chapter6.sendLvZipCode1050_checkStatusCode_expect200">
+    <configuration name="Chapter4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-rest-assured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="examples" />
+      <option name="MAIN_CLASS_NAME" value="examples.Chapter4" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-rest-assured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="examples" />
+      <option name="MAIN_CLASS_NAME" value="examples.Chapter5" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter5.requestUsZipCode90210_checkPlaceNameInResponseBody_expectBeverlyHills" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-rest-assured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="examples" />
+      <option name="MAIN_CLASS_NAME" value="examples.Chapter5" />
+      <option name="METHOD_NAME" value="requestUsZipCode90210_checkPlaceNameInResponseBody_expectBeverlyHills" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter6.requestUsZipCode90210_checkPlaceNameInResponseBody_expectBeverlyHills" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-rest-assured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="examples" />
+      <option name="MAIN_CLASS_NAME" value="examples.Chapter6" />
+      <option name="METHOD_NAME" value="requestUsZipCode90210_checkPlaceNameInResponseBody_expectBeverlyHills" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter6.sendLvZipCode1050_checkStatusCode_expect200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-rest-assured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="examples" />
+      <option name="MAIN_CLASS_NAME" value="examples.Chapter6" />
+      <option name="METHOD_NAME" value="sendLvZipCode1050_checkStatusCode_expect200" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Chapter6.sendLvZipCode1050_checkStatusCode_expect200" />
+        <item itemvalue="JUnit.Chapter6.requestUsZipCode90210_checkPlaceNameInResponseBody_expectBeverlyHills" />
+        <item itemvalue="JUnit.Chapter5" />
+        <item itemvalue="JUnit.Chapter5.requestUsZipCode90210_checkPlaceNameInResponseBody_expectBeverlyHills" />
+        <item itemvalue="JUnit.Chapter4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd0787df-5968-4ddc-99db-3b812e5ca90a" name="Changes" comment="" />
+      <created>1723213806125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723213806125</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
